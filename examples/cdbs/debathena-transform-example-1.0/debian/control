@@ -5,7 +5,6 @@ Maintainer: Tim Abbott <tabbott@mit.edu>
 Rules-Requires-Root: no
 Build-Depends: cdbs,
  debhelper,
- dh-buildinfo,
  config-package-dev (>= 4.5~), lynx
 Standards-Version: 4.1.0
 

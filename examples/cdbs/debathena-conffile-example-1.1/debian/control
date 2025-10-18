@@ -5,7 +5,6 @@ Maintainer: Jonathan Reed <jdreed@mit.edu>
 Rules-Requires-Root: no
 Build-Depends: cdbs,
  debhelper,
- dh-buildinfo,
  config-package-dev (>= 4.5~)
 Standards-Version: 4.1.0
 
