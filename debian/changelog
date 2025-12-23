@@ -1,3 +1,10 @@
+config-package-dev (5.5.2) unstable; urgency=medium
+
+  * Team Upload.
+  * Remove dependency on dh-buildinfo (Closes: #1122903)
+
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Tue, 23 Dec 2025 11:26:45 -0500
+
 config-package-dev (5.5.1) unstable; urgency=medium
 
   * Team Upload.
